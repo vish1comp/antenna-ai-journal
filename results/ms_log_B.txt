@@ -1,0 +1,18 @@
+﻿=== curated ===
+curated seed 42 done
+curated seed 7 done
+curated seed 123 done
+curated seed 2024 done
+curated seed 11 done
+=== generative ===
+generative seed 42 done
+generative seed 7 done
+generative seed 123 done
+generative seed 2024 done
+generative seed 11 done
+=== guidance ===
+guidance seed 42 done
+guidance seed 7 done
+guidance seed 123 done
+guidance seed 2024 done
+guidance seed 11 done

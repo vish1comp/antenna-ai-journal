@@ -1,0 +1,27 @@
+=== invbase ===
+invbase seed 42 broad done
+invbase seed 42 curated done
+invbase seed 7 broad done
+invbase seed 7 curated done
+invbase seed 123 broad done
+invbase seed 123 curated done
+invbase seed 2024 broad done
+invbase seed 2024 curated done
+invbase seed 11 broad done
+invbase seed 11 curated done
+=== bsize ===
+bsize seed 42 n 1500 done
+bsize seed 42 n 6000 done
+bsize seed 42 n 24000 done
+bsize seed 42 n 96000 done
+bsize seed 42 n 300000 done
+bsize seed 7 n 1500 done
+bsize seed 7 n 6000 done
+bsize seed 7 n 24000 done
+bsize seed 7 n 96000 done
+bsize seed 7 n 300000 done
+bsize seed 123 n 1500 done
+bsize seed 123 n 6000 done
+bsize seed 123 n 24000 done
+bsize seed 123 n 96000 done
+bsize seed 123 n 300000 done

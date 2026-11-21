@@ -1,0 +1,7 @@
+design,width substrate in mm,length impedance line in mm,width slot in mm,length slot in mm,patch width in mm,substrate length in mm,patch legth in mm,pred_S11_2p4_dB,sigma_dB,interval_lo_dB,interval_hi_dB,dist_to_nearest_real,dataset_S11_2p4_dB
+D1,41.0,3.0,1.0,5.7,42.0,42.0,29.3,-24.71,0.63,-28.14,-21.28,0.06,
+D2,41.0,3.0,1.0,6.2,42.0,40.8,29.3,-24.56,0.99,-29.97,-19.15,0.168,
+D3,41.0,3.0,1.0,8.4,42.0,41.6,29.3,-20.28,0.44,-22.68,-17.88,0.128,
+D4,41.0,3.0,1.0,6.9,42.0,38.7,29.3,-23.71,1.29,-30.75,-16.67,0.078,
+D5,43.7,8.7,1.7,7.5,42.0,40.1,29.3,-16.65,0.47,-19.23,-14.08,0.154,
+REF (dataset),41.0,3.0,1.0,7.0,42.0,42.0,29.3,-30.56,2.15,-42.31,-18.8,0.0,-33.51

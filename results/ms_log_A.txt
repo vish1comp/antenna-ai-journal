@@ -1,0 +1,46 @@
+﻿=== surrogates ===
+surrogates A. seed 42 done
+surrogates A. seed 7 done
+surrogates A. seed 123 done
+surrogates A. seed 2024 done
+surrogates A. seed 11 done
+surrogates A. seed 99 done
+surrogates A. seed 314 done
+surrogates A. seed 1000 done
+surrogates A. seed 5 done
+surrogates A. seed 77 done
+surrogates B. seed 42 done
+surrogates B. seed 7 done
+surrogates B. seed 123 done
+surrogates B. seed 2024 done
+surrogates B. seed 11 done
+surrogates B. seed 99 done
+surrogates B. seed 314 done
+surrogates B. seed 1000 done
+surrogates B. seed 5 done
+surrogates B. seed 77 done
+surrogates C. seed 42 done
+surrogates C. seed 7 done
+surrogates C. seed 123 done
+surrogates C. seed 2024 done
+surrogates C. seed 11 done
+surrogates C. seed 99 done
+surrogates C. seed 314 done
+surrogates C. seed 1000 done
+surrogates C. seed 5 done
+surrogates C. seed 77 done
+=== uq ===
+uq seed 42: cov 0.898/0.899 raw 0.615 | aggr gap 15.5 | k1.5 gap 2.7 | 137s
+uq seed 7: cov 0.903/0.902 raw 0.593 | aggr gap 1.5 | k1.5 gap 2.3 | 100s
+uq seed 123: cov 0.899/0.905 raw 0.579 | aggr gap 13.8 | k1.5 gap 2.0 | 123s
+uq seed 2024: cov 0.898/0.898 raw 0.600 | aggr gap 19.2 | k1.5 gap 4.5 | 97s
+uq seed 11: cov 0.899/0.902 raw 0.598 | aggr gap 13.0 | k1.5 gap 3.0 | 151s
+uq seed 99: cov 0.899/0.900 raw 0.606 | aggr gap 12.0 | k1.5 gap 4.9 | 122s
+uq seed 314: cov 0.902/0.899 raw 0.596 | aggr gap 16.3 | k1.5 gap 2.1 | 128s
+uq seed 1000: cov 0.897/0.905 raw 0.593 | aggr gap 28.6 | k1.5 gap 3.4 | 106s
+uq seed 5: cov 0.898/0.897 raw 0.591 | aggr gap 0.6 | k1.5 gap 2.4 | 89s
+uq seed 77: cov 0.899/0.898 raw 0.584 | aggr gap 6.0 | k1.5 gap 4.3 | 115s
+=== ensemble ===
+ensemble seed 42 done
+ensemble seed 7 done
+ensemble seed 123 done
