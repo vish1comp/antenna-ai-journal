@@ -4,6 +4,10 @@ Code, results and figure scripts for *Reliable Machine-Learning Design of Micros
 Antennas With Conformal Calibration, Deep Generative Inverse Design, and Multi-Dataset
 Validation* (manuscript under preparation for IEEE Access).
 
+**Vishal Verma¹, Govind Kumar Pandey², Pawan Kumar¹, Pradnya Amrish Gajbhiye¹**
+¹ Indian Institute of Information Technology, Bhopal, India ·
+² Dayananda Sagar University, Bengaluru, India
+
 A neural surrogate predicts a patch antenna's |S11| in microseconds, so it is natural to let an
 optimizer search it. But the optimizer is drawn to exactly the regions where the surrogate is
 most wrong. This repository makes the surrogate state its own uncertainty, using an ensemble
@@ -24,6 +28,14 @@ Holm correction.
 | Generators | Hit the target 35–39 % of the time vs 5.5 % for random sampling; 92–100 % mask compliance vs 34 % (p < 0.001). Guidance raises diffusion compliance to 99.6 % at a controllable cost in diversity. |
 | Data curation | Physics-informed selection of training designs doubles generator compliance on a sparsely sampled dataset. |
 | Cost | Guided diffusion yields compliant designs about ten times more cheaply than multi-start optimization, although each optimized design is more reliable. |
+
+<p align="center">
+  <img src="paper_figures/figures/uq_reliability.png" width="45%" alt="calibration">
+  <img src="paper_figures/figures/generative_guidance.png" width="45%" alt="guidance">
+</p>
+<p align="center"><em>Left: prediction error grows with ensemble spread (a), and after conformal
+calibration the test coverage tracks the nominal level at every confidence (b). Right:
+classifier-free guidance trades design diversity for mask compliance (mean ± s.d. over 5 seeds).</em></p>
 
 ## Datasets
 
@@ -101,6 +113,11 @@ generate_*.py, benchmark_datasets.py, pipeline_multi.py, run_all.py   individual
 results/                  every CSV / NPZ behind the tables and figures (results/improved/: baselines)
 paper_figures/            figure scripts, shared style (figstyle.py) and the rendered figures
 ```
+
+## Citation
+
+Use the **Cite this repository** button on GitHub (from `CITATION.cff`). The journal reference
+will be added on publication.
 
 ## License
 

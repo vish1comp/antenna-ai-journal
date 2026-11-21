@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite it as below."
+title: "Reliable Machine-Learning Design of Microstrip Patch Antennas With Conformal Calibration, Deep Generative Inverse Design, and Multi-Dataset Validation"
+type: software
+authors:
+  - family-names: Verma
+    given-names: Vishal
+    affiliation: "Indian Institute of Information Technology, Bhopal, India"
+  - family-names: Pandey
+    given-names: Govind Kumar
+    affiliation: "Dayananda Sagar University, Bengaluru, India"
+  - family-names: Kumar
+    given-names: Pawan
+    affiliation: "Indian Institute of Information Technology, Bhopal, India"
+  - family-names: Gajbhiye
+    given-names: Pradnya Amrish
+    affiliation: "Indian Institute of Information Technology, Bhopal, India"
+repository-code: "https://github.com/vish1comp/antenna-ai-journal"
+license: MIT
+date-released: 2026-11-21
+keywords:
+  - microstrip patch antenna
+  - surrogate modeling
+  - conformal prediction
+  - uncertainty quantification
+  - generative inverse design
+  - diffusion models
