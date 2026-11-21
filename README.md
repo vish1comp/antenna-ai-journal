@@ -2,11 +2,7 @@
 
 Code, results and figure scripts for *Reliable Machine-Learning Design of Microstrip Patch
 Antennas With Conformal Calibration, Deep Generative Inverse Design, and Multi-Dataset
-Validation* (manuscript under preparation for IEEE Access).
-
-**Vishal Verma¹, Govind Kumar Pandey², Pawan Kumar¹, Pradnya Amrish Gajbhiye¹**
-¹ Indian Institute of Information Technology, Bhopal, India ·
-² Dayananda Sagar University, Bengaluru, India
+Validation* 
 
 A neural surrogate predicts a patch antenna's |S11| in microseconds, so it is natural to let an
 optimizer search it. But the optimizer is drawn to exactly the regions where the surrogate is
